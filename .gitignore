@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# annoying
+.DS_Store
+.virtual_documents
+
 # C extensions
 *.so
 
